@@ -1,5 +1,5 @@
 -- Create mood_mapper_db database
-CREATE DATABASE mood_mapper_db;
+CREATE DATABASE mood_mapper_3_db;
 
 -- Use the mood_mapper_db database
-USE mood_mapper_db;
+USE mood_mapper_3_db;
