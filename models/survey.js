@@ -23,6 +23,50 @@ module.exports = function(sequelize, DataTypes) {
         q4: {
             type: DataTypes.INTEGER,
             allowNull: false
+        },
+        q5: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q6: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q7: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q8: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q9: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q10: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q11: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q12: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q13: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q14: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        q15: {
+            type: DataTypes.INTEGER,
+            allowNull: false
         }
     });
     // Returns the model
